@@ -24,7 +24,6 @@ class MainClass {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     public static boolean connection() {
